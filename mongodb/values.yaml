@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: mantriyamini6/mongodb
+  imageVersion: v1
+service:
+  type: ClusterIP
